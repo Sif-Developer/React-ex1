@@ -1,3 +1,3 @@
 # CODEACADEMY
-[Create React App](./public/assets/freeCodeCamp.png).
+![image](./public/assets/freeCodeCamp.png).
 
